@@ -8,6 +8,8 @@ A JavaScript module that wrappers the HTML5 localStorage object. It can optional
 
 Dependencies: localStorage and JSON if you are storing objects. If you really need non-native JSON and its not native then use [Doug Crockford's JSON.js](https://github.com/douglascrockford/JSON-js).
 
+Will fire a console.warn (if console enabled) if you attempt to store an object when JSON is not supported.
+
 ### Usage ###
 
 	localStore.setItem(name, itemData, lifetimeMsec);
