@@ -1,9 +1,9 @@
 /**
-	localstore.js
+	localstore.js (github.com/johnhunter/netcache/)
 
 	Module based on jquery plugin from http://www.stoimen.com/blog/2010/02/26/jquery-localstorage-plugin-alpha
 	
-	@author       John Hunter for johnhunter.info
+	@author       John Hunter
 	Created       2010-10-11
 	Licence       CC-BSD (2011) <http://creativecommons.org/licenses/BSD/>
 	
